@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp ipython_config.py ~/.ipython/profile_default/

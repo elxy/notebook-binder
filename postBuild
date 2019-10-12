@@ -1,3 +1,4 @@
 #!/bin/bash
 
+ipython profile create
 cp ipython_config.py ~/.ipython/profile_default/

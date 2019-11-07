@@ -6,3 +6,4 @@ dependencies:
   - colour-science
   - matplotlib
   - pandas
+  - scikit-image

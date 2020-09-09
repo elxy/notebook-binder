@@ -8,4 +8,4 @@ dependencies:
   - pandas
   - scikit-image
   - ipympl
-  - opencv
+  - imageio
